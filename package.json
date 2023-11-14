@@ -88,8 +88,7 @@
     "webpack": "webpack --display-error-details --progress",
     "webpack-dev": "webpack --display-error-details --progress -d --env.debug",
     "webpack-dev-watch": "webpack --display-error-details --progress -d --env.debug -w",
-    "prepublish-ts": "tsc",
-    "prepare": "npm run build"
+    "prepublish-ts": "tsc"
   },
   "repository": {
     "type": "git",
